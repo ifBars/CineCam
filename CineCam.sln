@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.36105.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineCam", "CineCam.csproj", "{4BAD54FA-7266-4AAF-807B-88F30394B7EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Il2cpp|Any CPU = Il2cpp|Any CPU
+		Mono|Any CPU = Mono|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BAD54FA-7266-4AAF-807B-88F30394B7EA}.Il2cpp|Any CPU.ActiveCfg = Il2cpp|Any CPU
+		{4BAD54FA-7266-4AAF-807B-88F30394B7EA}.Il2cpp|Any CPU.Build.0 = Il2cpp|Any CPU
+		{4BAD54FA-7266-4AAF-807B-88F30394B7EA}.Mono|Any CPU.ActiveCfg = Mono|Any CPU
+		{4BAD54FA-7266-4AAF-807B-88F30394B7EA}.Mono|Any CPU.Build.0 = Mono|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D2545D-6C53-47A3-AA32-C29BB94AB948}
+	EndGlobalSection
+EndGlobal
